@@ -1,0 +1,23 @@
+{
+  "name": "primeiroprograma",
+  "version": "1.0.0",
+  "description": "Programa para estudos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixdf/estudos.git"
+  },
+  "keywords": [
+    "angular",
+    "js"
+  ],
+  "author": "Alex Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixdf/estudos/issues"
+  },
+  "homepage": "https://github.com/felixdf/estudos#readme"
+}
