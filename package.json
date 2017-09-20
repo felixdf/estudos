@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/felixdf/estudos#readme",
   "dependencies": {
-    "angular": "^1.6.6",
+    "angular": "1.6.6",
+    "grunt": "^1.0.1",
     "ionic": "^3.10.3"
   }
 }
